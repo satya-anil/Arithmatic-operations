@@ -1,0 +1,9 @@
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\GotoEx\bin\Debug\GotoEx.exe.config
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\GotoEx\bin\Debug\GotoEx.exe
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\GotoEx\bin\Debug\GotoEx.pdb
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\GotoEx\obj\Debug\GotoEx.csproj.CoreCompileInputs.cache
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\GotoEx\obj\Debug\GotoEx.exe
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\GotoEx\obj\Debug\GotoEx.pdb
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\GotoEx\obj\Debug\GotoEx.csproj.AssemblyReference.cache
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\GotoEx\obj\Debug\GotoEx.Properties.Resources.resources
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\GotoEx\obj\Debug\GotoEx.csproj.GenerateResource.cache
