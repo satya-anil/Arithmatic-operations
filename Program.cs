@@ -11,7 +11,7 @@ namespace GotoEx
         static void Main(string[] args)
         {
            
-            int n;
+            int n, m=10;
             start:
             Console.Write("Enter Any value: ");
             n = Convert.ToInt32(Console.ReadLine());
