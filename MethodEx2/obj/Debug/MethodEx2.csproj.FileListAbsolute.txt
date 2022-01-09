@@ -1,0 +1,7 @@
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\MethodEx2\bin\Debug\MethodEx2.exe.config
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\MethodEx2\bin\Debug\MethodEx2.exe
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\MethodEx2\bin\Debug\MethodEx2.pdb
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\MethodEx2\obj\Debug\MethodEx2.csproj.AssemblyReference.cache
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\MethodEx2\obj\Debug\MethodEx2.csproj.CoreCompileInputs.cache
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\MethodEx2\obj\Debug\MethodEx2.exe
+D:\class\vtalent.16th batch\c#Examples(console)\FunctionEx1sol\MethodEx2\obj\Debug\MethodEx2.pdb
